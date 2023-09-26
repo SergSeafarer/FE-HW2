@@ -8,4 +8,3 @@ alert(firstNumber + '+' + secondNumber + '=' + sum);
 alert(firstNumber + '-' + secondNumber + '=' + sub);
 alert(firstNumber + '*' + secondNumber + '=' + mult);
 alert(firstNumber + '/' + secondNumber + '=' + div);
-console.log(typeof firstNumber);
